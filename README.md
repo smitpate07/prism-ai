@@ -20,10 +20,6 @@
 **Prism AI** is a multimodal intelligence platform that lets you chat, generate images,<br/>
 transcribe audio, analyze video, and synthesize speech — all from a single, premium interface.
 
-[**🚀 Live Demo**](https://your-app.onrender.com) &nbsp;·&nbsp;
-[**🐛 Report Bug**](https://github.com/yourusername/prism-ai/issues) &nbsp;·&nbsp;
-[**✨ Request Feature**](https://github.com/yourusername/prism-ai/issues)
-
 </div>
 
 ---
@@ -125,9 +121,9 @@ r = requests.post(
 
 ---
 
-### 🟣 [OpenRouter](https://openrouter.ai) — Vision, Video & PDF
+### 🟣 [OpenRouter](https://openrouter.ai) — Vision
 
-Used for **image understanding**, **video analysis**, and **PDF summarization**.
+Used for **image understanding**
 
 OpenRouter provides a unified API gateway to hundreds of models. Prism AI uses **Nemotron-Omni-30B** — a multimodal reasoning model that handles image, video frame, and document inputs.
 
