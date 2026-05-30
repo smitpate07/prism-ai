@@ -154,6 +154,6 @@ prism-ai/
 
 ---
 
-## 🤝 How to access the Application:
+## How to access the Application:
 
-Click here and Add your API Key:  
+Click the link and Add your API Key: https://prism-ai-2w0x.onrender.com/
