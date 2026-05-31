@@ -35,12 +35,9 @@ transcribe audio, analyze video, and synthesize speech — all from a single, pr
 
 ---
 
-## 🗺️ Architecture Overview
+## 🗺️ Highlevel Overview
 
-
-> _High-level architecture — showing the routing layer and API integrations._
-
-![Architecture Overview](assets/architecture.png)
+![Highlevel](assets/highlevel.png)
 
 ---
 
