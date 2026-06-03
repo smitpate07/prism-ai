@@ -1,6 +1,4 @@
 <div align="center">
-
-<!-- Replace with your actual banner image once you have one -->
 <!-- <img src="assets/banner.png" alt="Prism AI" width="100%" /> -->
 
 # 🔷 Prism AI
@@ -25,11 +23,6 @@ transcribe audio, analyze video, and synthesize speech — all from a single, pr
 ---
 
 ## 📹 Demo
-
-<!-- ─────────────────────────────────────────────────────────────────────────
-     REPLACE: paste your Loom / YouTube link below, or drop a GIF into assets/
-     ───────────────────────────────────────────────────────────────────────── -->
-> 🎬 Full walkthrough video — all 6 modalities in action.
 
 [![Prism AI Demo](https://img.shields.io/badge/▶%20Watch%20Demo-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/your-video-id)
 
