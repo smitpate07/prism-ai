@@ -137,7 +137,7 @@ prism-ai/
 ├── requirements.txt        # Python dependencies
 ├── .env.example            # Environment variable template
 ├── assets/
-│   ├── highlevel.png          # High Level image
+│   ├── highlevel.png       # High Level image
 │   └── architecture.png    # Architecture diagram
 └── README.md
 ```
