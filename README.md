@@ -22,12 +22,6 @@ transcribe audio, analyze video, and synthesize speech — all from a single, pr
 
 ---
 
-## 📹 Demo
-
-[![Prism AI Demo](https://img.shields.io/badge/▶%20Watch%20Demo-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/your-video-id)
-
----
-
 ## 🗺️ Highlevel Overview
 
 ![Highlevel](assets/highlevel.png)
@@ -143,6 +137,19 @@ prism-ai/
 
 ---
 
+## 📹 Demo
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/8acc1547-62c8-452b-9c5e-38d28c1fcfcf"
+    controls
+    autoplay
+    loop
+    muted
+    style="max-width: 100%; border-radius: 8px;">
+  </video>
+</div>
+
+---
 ## How to access the Application:
 
-Click the link and Add your API Key: https://huggingface.co/spaces/Snow79703/prism-ai
+Application is hosted on Hugging Space. Click the link and Add your API Key: [Here](https://huggingface.co/spaces/Snow79703/prism-ai)
