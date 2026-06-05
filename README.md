@@ -138,7 +138,6 @@ prism-ai/
 ├── .env.example            # Environment variable template
 ├── assets/
 │   ├── highlevel.png       # High Level image
-│   └── architecture.png    # Architecture diagram
 └── README.md
 ```
 
@@ -146,4 +145,4 @@ prism-ai/
 
 ## How to access the Application:
 
-Click the link and Add your API Key:
+Click the link and Add your API Key: https://huggingface.co/spaces/Snow79703/prism-ai
