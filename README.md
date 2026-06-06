@@ -100,7 +100,6 @@ r = requests.post(
           "generationConfig": {"responseModalities": ["IMAGE", "TEXT"]}}
 )
 ```
-
 > **Required key:** `GOOGLE_API_KEY` → [Get one at aistudio.google.com](https://aistudio.google.com/app/apikey)
 
 ---
