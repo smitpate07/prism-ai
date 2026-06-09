@@ -122,20 +122,6 @@ requests.post("https://openrouter.ai/api/v1/chat/completions",
 
 ---
 
-## 📁 Project Structure
-
-```
-prism-ai/
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Python dependencies
-├── .env.example            # Environment variable template
-├── assets/
-│   ├── highlevel.png       # High Level image
-└── README.md
-```
-
----
-
 ## 📹 Demo
 
 <div align="center">
